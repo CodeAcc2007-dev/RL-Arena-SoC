@@ -1,4 +1,4 @@
-ROWS = 10
+ROWS = 3
 COLS = 10
 
 EMPTY_CELL = "."
